@@ -1,4 +1,4 @@
-# 🕵️ Google Dork Archive
+# 🕵️ Advanced Google Dork Archive
 
 [![Total Dorks](https://img.shields.io/badge/Total%20Dorks-2500%2B-red?style=for-the-badge&logo=google)](https://github.com)
 [![Categories](https://img.shields.io/badge/Categories-35-blue?style=for-the-badge&logo=bookmarks)](https://github.com)
@@ -53,7 +53,6 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 | 📁 Total Dorks | **2,500+** |
 | 🗂️ Categories | **35** |
 | 🔧 Operators Covered | **15+** |
-| 📅 Last Updated | **2025** |
 
 ---
 
