@@ -1,3 +1,5 @@
+![Banner](dorking.png)
+
 # 🕵️ Advanced Google Dork Archive
 
 [![Total Dorks](https://img.shields.io/badge/Total%20Dorks-1100+%2B-red?style=for-the-badge&logo=google)](https://github.com)
