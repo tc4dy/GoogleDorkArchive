@@ -1,4 +1,4 @@
-![Banner](dorking.png)
+![Banner](dorkingarc.png)
 
 # 🕵️ Advanced Google Dork Archive
 
