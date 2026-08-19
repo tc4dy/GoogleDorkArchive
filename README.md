@@ -3,8 +3,8 @@
 [![Total Dorks](https://img.shields.io/badge/Total%20Dorks-2500%2B-red?style=for-the-badge&logo=google)](https://github.com)
 [![Categories](https://img.shields.io/badge/Categories-35-blue?style=for-the-badge&logo=bookmarks)](https://github.com)
 [![Purpose](https://img.shields.io/badge/Purpose-OSINT%20%26%20Security%20Research-orange?style=for-the-badge&logo=shield)](https://github.com)
-[![License](https://img.shields.io/badge/License-Educational%20Use%20Only-green?style=for-the-badge)](https://github.com)
-[![Ethical](https://img.shields.io/badge/Use-Ethical%20%26%20Legal%20Only-brightgreen?style=for-the-badge&logo=checkmarx)](https://github.com)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com)
+[![Developer](https://img.shields.io/badge/Developer-tc4dy-red?style=for-the-badge&logo=github)](https://github.com)
 
 ---
 
