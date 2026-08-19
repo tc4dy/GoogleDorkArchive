@@ -4,7 +4,7 @@
 [![Categories](https://img.shields.io/badge/Categories-35-blue?style=for-the-badge&logo=bookmarks)](https://github.com)
 [![Purpose](https://img.shields.io/badge/Purpose-OSINT%20%26%20Security%20Research-orange?style=for-the-badge&logo=shield)](https://github.com)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative)](https://github.com)
-[![Developer](https://img.shields.io/badge/Developer-tc4dy-purple?style=for-the-badge&logo=github)](https://github.com)
+[![Developer](https://img.shields.io/badge/Developer-tc4dy-purple?style=for-the-badge&logo=github)](https://github.com/tc4dy)
 
 ---
 
