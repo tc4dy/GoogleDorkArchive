@@ -1,6 +1,6 @@
 # 🕵️ Advanced Google Dork Archive
 
-[![Total Dorks](https://img.shields.io/badge/Total%20Dorks-2500%2B-red?style=for-the-badge&logo=google)](https://github.com)
+[![Total Dorks](https://img.shields.io/badge/Total%20Dorks-1100+%2B-red?style=for-the-badge&logo=google)](https://github.com)
 [![Categories](https://img.shields.io/badge/Categories-35-blue?style=for-the-badge&logo=bookmarks)](https://github.com)
 [![Purpose](https://img.shields.io/badge/Purpose-OSINT%20%26%20Security%20Research-orange?style=for-the-badge&logo=shield)](https://github.com)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative)](https://github.com)
@@ -50,7 +50,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 | Metric | Value |
 |---|---|
-| 📁 Total Dorks | **2,500+** |
+| 📁 Total Dorks | **1.100+** |
 | 🗂️ Categories | **35** |
 | 🔧 Operators Covered | **15+** |
 
