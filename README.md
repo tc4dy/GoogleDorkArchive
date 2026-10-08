@@ -48,13 +48,13 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 📊 Archive Statistics
+## Archive Statistics
 
 | Metric | Value |
 |---|---|
-|  Total Dorks | **1.100+** |
-|  Categories | **35** |
-|  Operators Covered | **15+** |
+|  [>] Total Dorks | **1.100+** |
+|  [>] Categories | **35** |
+|  [>] Operators Covered | **15+** |
 
 ---
 
