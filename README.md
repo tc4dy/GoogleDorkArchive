@@ -1,6 +1,6 @@
 ![Banner](dorkingarc.png)
 
-# 🕵️ Advanced Google Dork Archive
+# Advanced Google Dork Archive
 
 [![Total Dorks](https://img.shields.io/badge/Total%20Dorks-1100+%2B-red?style=for-the-badge&logo=google)](https://github.com)
 [![Categories](https://img.shields.io/badge/Categories-35-blue?style=for-the-badge&logo=bookmarks)](https://github.com)
@@ -10,11 +10,11 @@
 
 ---
 
-## 📖 What Are Google Dorks?
+## What Are Google Dorks?
 
 **Google Dorking** (also known as Google Hacking) is the practice of using advanced Google Search operators to find specific information that is not easily accessible through a standard search. These operators allow you to filter and narrow results by file type, URL structure, page title, specific text content, and more.
 
-### 🔍 Core Operators
+### Core Operators
 
 | Operator | Description | Example |
 |---|---|---|
@@ -32,7 +32,7 @@
 
 ---
 
-## 🧠 Why Google Dorks Matter for OSINT
+## Why Google Dorks Matter for OSINT
 
 Open Source Intelligence (OSINT) is the collection and analysis of data gathered from public sources. Google Dorks are one of the most **powerful and accessible OSINT tools** available because:
 
@@ -44,7 +44,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 - **Journalism & research** — locate public records, leaked documents, statistics
 - **Threat intelligence** — identify misconfigured servers, exposed credentials, vulnerable systems
 
-> ⚠️ **The same techniques used by security researchers are used by malicious actors.** Understanding them is essential for defense. This archive exists so defenders know what to look for.
+> **The same techniques used by security researchers are used by malicious actors.** Understanding them is essential for defense. This archive exists so defenders know what to look for.
 
 ---
 
@@ -52,49 +52,49 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 | Metric | Value |
 |---|---|
-| 📁 Total Dorks | **1.100+** |
-| 🗂️ Categories | **35** |
-| 🔧 Operators Covered | **15+** |
+|  Total Dorks | **1.100+** |
+|  Categories | **35** |
+|  Operators Covered | **15+** |
 
 ---
 
-## 🗺️ Category Index
+##  Category Index
 
 > Click any category badge to jump directly to that section.
 
-### 📄 Documents & Files
-[📄 PDF Documents](#-pdf-documents) · [📊 Excel & Spreadsheets](#-excel--spreadsheets) · [📝 Word Documents](#-word-documents) · [📋 Text & Config Files](#-text--config-files) · [🗜️ Archive & Backup Files](#️-archive--backup-files)
+### Documents & Files
+[PDF Documents](#-pdf-documents) · [Excel & Spreadsheets](#-excel--spreadsheets) · [Word Documents](#-word-documents) · [Text & Config Files](#-text--config-files) · [Archive & Backup Files](#️-archive--backup-files)
 
-### 🔐 Credentials & Secrets
-[🔑 Passwords & Credentials](#-passwords--credentials) · [🗝️ API Keys & Tokens](#️-api-keys--tokens) · [⚙️ Config & Environment Files](#️-config--environment-files) · [🔒 SSH & Certificates](#-ssh--certificates)
+### Credentials & Secrets
+[Passwords & Credentials](#-passwords--credentials) · [API Keys & Tokens](#️-api-keys--tokens) · [Config & Environment Files](#️-config--environment-files) · [SSH & Certificates](#-ssh--certificates)
 
-### 🖥️ Servers & Panels
-[🛡️ Admin Panels](#️-admin-panels) · [🔐 Login Pages](#-login-pages) · [🗄️ Database Panels](#️-database-panels) · [🖥️ cPanel & Hosting](#️-cpanel--hosting) · [📂 Open Directories](#-open-directories)
+### Servers & Panels
+[Admin Panels](#️-admin-panels) · [Login Pages](#-login-pages) · [Database Panels](#️-database-panels) · [cPanel & Hosting](#️-cpanel--hosting) · [Open Directories](#-open-directories)
 
-### 🌐 Network & Infrastructure
-[📡 Routers & Network Devices](#-routers--network-devices) · [📷 IP Cameras & IoT](#-ip-cameras--iot) · [🏭 SCADA & Industrial](#-scada--industrial) · [🔗 VPN & Proxy](#-vpn--proxy)
+### Network & Infrastructure
+[Routers & Network Devices](#-routers--network-devices) · [IP Cameras & IoT](#-ip-cameras--iot) · [SCADA & Industrial](#-scada--industrial) · [VPN & Proxy](#-vpn--proxy)
 
-### 🗃️ Databases & Logs
-[🗃️ Database Files](#️-database-files) · [📋 Log Files](#-log-files) · [🔍 Database Errors](#-database-errors)
+### Databases & Logs
+[Database Files](#️-database-files) · [Log Files](#-log-files) · [Database Errors](#-database-errors)
 
-### 👁️ OSINT & Reconnaissance
-[👤 People & Profiles](#-people--profiles) · [📱 Social Media](#-social-media) · [🏢 Corporate Intelligence](#-corporate-intelligence) · [📍 Geolocation & Maps](#-geolocation--maps)
+### OSINT & Reconnaissance
+[People & Profiles](#-people--profiles) · [Social Media](#-social-media) · [Corporate Intelligence](#-corporate-intelligence) · [Geolocation & Maps](#-geolocation--maps)
 
-### 💻 Development & Code
-[💻 Code & Repositories](#-code--repositories) · [🐛 Debug & Developer Tools](#-debug--developer-tools) · [🔌 API Endpoints](#-api-endpoints) · [☁️ Cloud & Storage](#️-cloud--storage)
+### Development & Code
+[Code & Repositories](#-code--repositories) · [Debug & Developer Tools](#-debug--developer-tools) · [API Endpoints](#-api-endpoints) · [Cloud & Storage](#️-cloud--storage)
 
-### 🏦 Finance & Legal
-[💳 Financial Documents](#-financial-documents) · [⚖️ Legal & Contracts](#️-legal--contracts)
+### Finance & Legal
+[Financial Documents](#-financial-documents) · [Legal & Contracts](#️-legal--contracts)
 
-### 🏥 Domain-Specific
-[🏥 Healthcare & Medical](#-healthcare--medical) · [🎓 Education & Academic](#-education--academic) · [📰 News & Media](#-news--media) · [🛒 E-Commerce](#-e-commerce)
+### Domain-Specific
+[Healthcare & Medical](#-healthcare--medical) · [Education & Academic](#-education--academic) · [News & Media](#-news--media) · [E-Commerce](#-e-commerce)
 
-### 🔒 Security Research
-[🛡️ Vulnerability & Security](#️-vulnerability--security) · [🔎 CMS & Frameworks](#-cms--frameworks)
+### Security Research
+[Vulnerability & Security](#️-vulnerability--security) · [CMS & Frameworks](#-cms--frameworks)
 
 ---
 
-## 📄 PDF Documents
+## PDF Documents
 
 > Find publicly exposed PDF files across the web — reports, manuals, contracts, and more.
 
@@ -174,7 +174,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 📊 Excel & Spreadsheets
+## Excel & Spreadsheets
 
 > Discover exposed spreadsheets containing databases, financials, and user data.
 
@@ -234,7 +234,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 📝 Word Documents
+## Word Documents
 
 > Locate exposed Word documents — memos, policies, contracts, internal reports.
 
@@ -287,7 +287,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 📋 Text & Config Files
+## Text & Config Files
 
 > Plain text files that often contain credentials, lists, and configurations.
 
@@ -336,7 +336,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 🗜️ Archive & Backup Files
+## Archive & Backup Files
 
 > Find exposed archive files that may contain source code, databases, or backups.
 
@@ -375,7 +375,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 🔑 Passwords & Credentials
+## Passwords & Credentials
 
 > One of the most critical OSINT targets — accidentally exposed credential files.
 
@@ -422,7 +422,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 🗝️ API Keys & Tokens
+## API Keys & Tokens
 
 > Discover accidentally exposed API keys across public pages, repos, and files.
 
@@ -482,7 +482,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## ⚙️ Config & Environment Files
+## Config & Environment Files
 
 > Configuration and environment files that often contain database URLs and credentials.
 
@@ -539,7 +539,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 🔒 SSH & Certificates
+## SSH & Certificates
 
 > Exposed SSH keys, SSL certificates, and cryptographic material.
 
@@ -568,7 +568,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 🛡️ Admin Panels
+## Admin Panels
 
 > Find exposed administrative interfaces and control panels.
 
@@ -617,7 +617,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 🔐 Login Pages
+## Login Pages
 
 > Discover login interfaces across the web — useful for reconnaissance and audit.
 
@@ -658,7 +658,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 🗄️ Database Panels
+## Database Panels
 
 > Find exposed database management interfaces.
 
@@ -689,7 +689,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 🖥️ cPanel & Hosting
+## cPanel & Hosting
 
 > Identify web hosting control panels that may be misconfigured.
 
@@ -723,7 +723,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 📂 Open Directories
+## Open Directories
 
 > Directory listing pages that expose all files in a folder.
 
@@ -770,7 +770,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 🗃️ Database Files
+## Database Files
 
 > Raw database files exposed on the web — a goldmine for security research.
 
@@ -804,7 +804,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 📋 Log Files
+## Log Files
 
 > Exposed log files can reveal internal IP addresses, user actions, and system info.
 
@@ -843,7 +843,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 🔍 Database Errors
+## Database Errors
 
 > Database error messages that reveal structure, software versions, and connection info.
 
@@ -872,7 +872,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 📡 Routers & Network Devices
+## Routers & Network Devices
 
 > Locate exposed network device management interfaces.
 
@@ -911,7 +911,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 📷 IP Cameras & IoT
+## IP Cameras & IoT
 
 > Find exposed surveillance cameras, smart devices, and IoT interfaces.
 
@@ -950,7 +950,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 🏭 SCADA & Industrial
+## SCADA & Industrial
 
 > Industrial Control Systems, PLCs, and SCADA interfaces exposed to the internet.
 
@@ -979,7 +979,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 🔗 VPN & Proxy
+## VPN & Proxy
 
 > Find VPN configurations, proxy files, and remote access portals.
 
@@ -1008,7 +1008,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 👤 People & Profiles
+## People & Profiles
 
 > OSINT on individuals — useful for research, background checks, and investigation.
 
@@ -1037,7 +1037,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 📱 Social Media
+## Social Media
 
 > Find public posts, profiles, and content across social platforms.
 
@@ -1066,7 +1066,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 🏢 Corporate Intelligence
+## Corporate Intelligence
 
 > Gather intelligence about organizations — internal documents, org charts, and more.
 
@@ -1095,7 +1095,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 📍 Geolocation & Maps
+## Geolocation & Maps
 
 > Location data, GPS files, and mapping information.
 
@@ -1124,7 +1124,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 💻 Code & Repositories
+## Code & Repositories
 
 > Find source code, repositories, and version control data.
 
@@ -1163,7 +1163,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 🐛 Debug & Developer Tools
+## Debug & Developer Tools
 
 > Development and debugging interfaces that should never be publicly accessible.
 
@@ -1202,7 +1202,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 🔌 API Endpoints
+## API Endpoints
 
 > Find publicly exposed API documentation, endpoints, and specifications.
 
@@ -1237,7 +1237,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## ☁️ Cloud & Storage
+## Cloud & Storage
 
 > Find files and data exposed in cloud storage services.
 
@@ -1271,7 +1271,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 💳 Financial Documents
+## Financial Documents
 
 > Financial records, bank statements, and payment information.
 
@@ -1305,7 +1305,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## ⚖️ Legal & Contracts
+## Legal & Contracts
 
 > Legal documents, contracts, and court records.
 
@@ -1334,7 +1334,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 🏥 Healthcare & Medical
+## Healthcare & Medical
 
 > Medical records, patient data, and healthcare systems.
 
@@ -1363,7 +1363,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 🎓 Education & Academic
+## Education & Academic
 
 > Educational materials, student records, and academic institutions.
 
@@ -1392,7 +1392,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 📰 News & Media
+## News & Media
 
 > News feeds, APIs, and media content.
 
@@ -1421,7 +1421,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 🛒 E-Commerce
+## E-Commerce
 
 > Online stores, payment systems, and shopping platforms.
 
@@ -1450,7 +1450,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 🛡️ Vulnerability & Security
+## Vulnerability & Security
 
 > Security research, vulnerability reports, and exposed security tools.
 
@@ -1484,7 +1484,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-## 🔎 CMS & Frameworks
+## CMS & Frameworks
 
 > Identify specific CMS installations, versions, and potential weaknesses.
 
@@ -1523,26 +1523,13 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
----
-
-## ⚠️ Ethical Use Warning
-
-```
-██╗    ██╗ █████╗ ██████╗ ███╗   ██╗██╗███╗   ██╗ ██████╗ 
-██║    ██║██╔══██╗██╔══██╗████╗  ██║██║████╗  ██║██╔════╝ 
-██║ █╗ ██║███████║██████╔╝██╔██╗ ██║██║██╔██╗ ██║██║  ███╗
-██║███╗██║██╔══██║██╔══██╗██║╚██╗██║██║██║╚██╗██║██║   ██║
-╚███╔███╔╝██║  ██║██║  ██║██║ ╚████║██║██║ ╚████║╚██████╔╝
- ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 
-```
-
-### 🚨 Legal Disclaimer
+### Legal Disclaimer
 
 > **This archive is provided for educational, research, and authorized security testing purposes ONLY.**
 
 ---
 
-### ✅ Authorized Uses
+### Authorized Uses
 
 | Use Case | Description |
 |---|---|
@@ -1555,7 +1542,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-### ❌ Prohibited Uses
+### Prohibited Uses
 
 | Prohibited Action | Consequence |
 |---|---|
@@ -1568,7 +1555,7 @@ Open Source Intelligence (OSINT) is the collection and analysis of data gathered
 
 ---
 
-### 🧠 Responsible Disclosure
+### Responsible Disclosure
 
 If you discover a vulnerability through this research:
 
@@ -1580,7 +1567,7 @@ If you discover a vulnerability through this research:
 
 ---
 
-### 📞 Resources
+###  Resources
 
 | Resource | URL |
 |---|---|
